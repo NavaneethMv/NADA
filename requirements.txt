@@ -1,0 +1,20 @@
+# Core libraries
+numpy
+pandas
+scikit-learn
+
+# Deep Learning - using tensorflow-cpu for better compatibility
+tensorflow-cpu
+
+# Data processing
+imbalanced-learn
+scapy
+
+# Visualization
+matplotlib
+seaborn
+
+# Optional but recommended
+ipython
+jupyter
+tqdm
